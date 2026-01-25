@@ -1,0 +1,13 @@
+(1) Nhà cung cấp
+(2) Số phiếu
+(3) Ngày nhập
+(6) Tên NVL
+(10) Số lượng đơn vị
+(12) Đơn giá NCC
+(13) Chiết khấu (%)
+(15) Phí vận chuyển 
+(14) VAT (%)
+
+vậy tổng phải có 1combobox 8 ô txt
+
+ k bào gồm txtTongTienBill, txtTongShipBill, txtTiLe,
