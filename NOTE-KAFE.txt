@@ -1,13 +1,557 @@
-(1) Nhà cung cấp
-(2) Số phiếu
-(3) Ngày nhập
-(6) Tên NVL
-(10) Số lượng đơn vị
-(12) Đơn giá NCC
-(13) Chiết khấu (%)
-(15) Phí vận chuyển 
-(14) VAT (%)
-
-vậy tổng phải có 1combobox 8 ô txt
-
- k bào gồm txtTongTienBill, txtTongShipBill, txtTiLe,
+ên
+1:16:51
+phần quỷ tiền à bên phần kho quản lý kho nha các anh chị. Bên phần kho là mình sẽ
+1:16:57
+có là mua hàng và kho. Mua hàng ở cái phần mua hàng này á các anh chị thì khi
+1:17:04
+mà các anh chị nhập hàng vào thì các anh chị sẽ thấy là ở đây nó sẽ có báo hàng và có đặt hàng và có nhập hàng ha. Thì
+1:17:10
+đối với báo hàng có nghĩa là bếp họ sẽ thực hiện báo hàng lên cho bộ phận đặt hàng để họ bộ một phần thật bà đặt hàng
+1:17:16
+họ tiến hành đặt hàng cho nhà cung cấp sau đó sẽ là nhập hàng. À mình sẽ có quy trình như vậy. Và đầu tiên là để mà làm
+1:17:22
+báo hàng này thì các anh chị sẽ chọn vào mua hàng. Chọn thêm báo hàng và chọn thêm giúp em. Rồi ở đây thì mình sẽ chọn
+1:17:28
+nha thêm báo hàng hiển thị số lượng tồn kho luôn. Thì lúc này thì bếp họ sẽ biết là trong kho họ còn tồn bao nhiêu luôn
+1:17:34
+để để mà họ đặt thêm hàng đó. Họ cần thêm hàng để họ gửi cho nhà cung cấp.
+1:17:40
+Rồi ví dụ như ở đây thì họ bốn cần nè nè các anh chị sẽ chọn nè nguyên vật liệu ha nguyên vật liệu sau đó thì mình sẽ
+1:17:47
+chọn
+1:17:53
+ha rồi các anh chị nè số lượng cần nè cần của các anh chị là số lượng cần bao nhiêu à số lượng cần của các anh chị là
+1:17:59
+10 cái này là mình cần thôi ha cần đó 10 thì phần mềm sẽ đề nghị là 10 nha các anh chị nha còn nếu như mà mình không
+1:18:05
+nhập số lượng cần số lượng đề nghị là số lượng mà mình muốn đặt luôn á ví dụ mình muốn đặt 10 thì mình sẽ nhập trực tiếp vô đây 10 luôn đó. À các anh chị chọn
+1:18:12
+như vậy ha. Rồi thêm dòng thêm dòng thì các anh chị có thể thêm những cái mặt
+1:18:18
+hàng mà các anh chị muốn muốn đặt ví dụ như tôm càng
+1:18:24
+đó. À số lượng tồn là à 33. Các anh chị muốn đặt thêm bao nhiêu? Các anh chị
+1:18:29
+muốn đặt thêm 20 kg nữa thì các anh chị sẽ nhập 20 kg. 20 kg vào đó.
+1:18:38
+Sau khi mà các anh chị đã đã chọn xong những cái nguyên vật liệu mà các anh chị muốn báo lên trên để đặt rồi, các anh
+1:18:43
+chị có thể chọn cất ở đây giúp em ha. Cất ở đây. À cất ở đây. Vậy thì mình sẽ à thao tác sau khi cất xong rồi các anh
+1:18:50
+chị có thể xem được những cái phiếu mà mình à báo hàng nó sẽ nằm ở trên đây. Vậy thì à mình sẽ qua cái phần đặt hàng.
+1:18:56
+Đặt hàng thì đặt hàng các anh chị là có thể thêm trực tiếp đặt hàng. Nếu như mà các anh chị không dùng báo hàng mình có
+1:19:02
+thể đặt hàng trực tiếp là mình chọn cái nút thêm đặt hàng ở đây ha. Và nó một là mình đặt hàng là chọn theo phiếu báo
+1:19:07
+hàng, hai là mình sẽ tự đặt hàng luôn, mình không cần phải qua thông qua phiếu báo hàng nào cả. Đó, còn nếu như mà
+1:19:13
+thông qua cái phiếu báo hàng thì các anh chị sẽ chọn phiếu báo hàng mà các anh chị muốn đặt. Ở đây là số lượng báo hàng
+1:19:19
+nè. Các anh chị có thể điều chỉnh cái số lượng mà các anh chị muốn đặt ở đây. Rồi các anh chị chọn nhà cung cấp
+1:19:24
+để các anh chị đặt hàng ha. Các anh chị chọn nhà cung cấp, các
+1:19:31
+anh chị đặt hàng. Rồi ở đây mình sẽ có đơn giá mình đặt hàng ha. à có đơn giá đặt
+1:19:42
+hàng rồi các anh chị đặt hàng. Sau khi các anh chị nhập xong rồi thông tin rồi, lúc này thì các anh chị chỉ còn cất chọn
+1:19:48
+cất đi là mình đã xong cái phiếu à mình đã xong cái phiếu đặt hàng. Vậy cái phiếu đặt hàng này á các anh chị thì các
+1:19:53
+anh chị có thể chọn phiếu đặt hàng này để mình in ha in trực tiếp à ra à máy in
+1:19:58
+hoặc là các anh chị có thể xuất khẩu ra file Excel ha đều được. Rồi sau khi mà đặt hàng xong thì các anh
+1:20:05
+chị sẽ chuyển qua file nhập hàng. Thì nhập hàng thì các anh chị sẽ chọn thêm giúp em. Chọn thêm thì đối với ở cái chỗ
+1:20:11
+thêm này nè thì các anh chị một là các anh chị sẽ chọn tiện ích. Các anh chị lập từ cái đơn đặt hàng hoặc là lập từ cái phiếu đặt hàng, phiếu báo hàng ha.
+1:20:18
+Còn nếu như mà trường hợp mà các anh chị không dùng phiếu từ cái đơn đặt hàng hay là phiếu báo hàng gì hết thì các anh chị có thể nhập trực tiếp cái mã hàng nhập ở
+1:20:25
+đây luôn. Đó, nhập trực tiếp mã hàng ở đây là mình sẽ chọn. Còn nếu như mà mình chọn từ phiếu đặt hàng thì mình sẽ chọn
+1:20:31
+cái chứng từ đặt hàng ở trên đây. Sau đó thì các anh chị sẽ chọn như thế này thì sẽ ra được cái phiếu đặt
+1:20:38
+hàng. Thì cái phiếu đặt cái phiếu nhập hàng này các anh chị sẽ thấy ở đây có ghi nợ cái nhà cung cấp nè. Nếu như mà
+1:20:43
+trường hợp mình ghi nợ nha. Còn nếu như mà mình thanh toán rồi thì các anh chị có thể chọn thanh toán. Thanh toán thì
+1:20:49
+mình có thể chọn hình thức thanh toán là tiền mặt hay là tiền gửi luôn nha các anh chị. Tiền mặt hay là tiền kiểm khoản luôn. Đó.
+1:20:55
+Đó. Ghi nợ thì mình sẽ chọn ghi nợ. Rồi các anh chị xem số lượng nhập đơn giá có
+1:21:00
+chiết khấu gì hay không à có thuế suất gì hay không. Sau đó thì các anh chị sẽ chọn cất lại thì phần mềm sẽ tự đọc nhập
+1:21:06
+kho luôn nha các anh
+1:21:14
+chị. Rồi đó là cái thao tác về nhập hàng. Em sẽ thao tác lại một lần nữa cho các anh chị ha. À thao tác không cần
+1:21:20
+phải qua phiếu báo hàng hay đặt hàng. À khi mà các anh chị không làm báo hàng và đặt hàng, các anh chị muốn mua hàng và
+1:21:25
+các anh chị nhập hàng luôn. Các anh chị chọn giúp em là nhập hàng luôn ha. Mình sẽ chọn thêm nè. Rồi đầu tiên là thêm
+1:21:31
+ghi nợ nhà cung cấp hay là thanh toán ngay. Ví dụ đối với cái đơn nhập hàng này, phiếu nhập hàng này sẽ em sẽ chọn
+1:21:37
+là thanh toán bằng tiền mặt. Sau đó em sẽ chọn nhà cung cấp. À nhà cung cấp ha. Rồi sau đó mình sẽ chọn cái mã hàng. Mã
+1:21:44
+hàng của mình sẽ gồm có à Tiger nè. Đó 24 lon thì em sẽ nhập 24 lon.
+1:21:52
+Rồi cái đơn vị tính ở đây em có làm chuyển đổi rồi thì bây giờ em không muốn nhập lon thì em muốn nhập thùng thì vẫn được ha. Ví dụ nhập thùng là hai thùng
+1:21:59
+thì phần mềm sẽ hiểu là 24 lon luôn. Phần mềm sẽ tự hiểu là 48 lon thì một thùng là 24 lon.
+1:22:06
+Đó thôi đơn giá ví dụ như một thùng là 250 thì mình sẽ để là một thùng là 250
+1:22:12
+phần mềm sẽ tự thành tiền luôn. Thì các anh chị có chiết khấu hay là thuế xuất thì mình sẽ có thể nhập trực tiếp vào
+1:22:17
+trên đây. Tương tự như vậy thì các anh chị có thể nhập thêm dòng để mình nhập thêm những cái mặt hàng khác của cái nhà
+1:22:22
+cung cấp này. Đó ví dụ như là Heneken. Heneken 24 lon.
+1:22:29
+Đó này là đơn giá của một lon nha các anh chị. Đơn giá của đơn vị tính á. Đó ví dụ đơn giá là 18.000đ Mình sẽ nhập
+1:22:35
+như thế này. Rồi sau khi mà các anh chị đã xong ha, nhập xong rồi thì mình chỉ cần cất
+1:22:41
+đi. Đó, nhớ giúp em là ở đây nó có cái kho nha các anh chị nha. Kho nha. Thì khi mà các anh chị chọn kho ngầm định nó
+1:22:47
+quan trọng lắm. Khi mà các anh chị chọn kho ngầm định á thì lúc mà nhập hàng á phần mềm nó cũng sẽ tự chọn cho các anh chị cái kho đó luôn. Và cái kho đó cũng
+1:22:53
+chính là cái kho để mà xuất bán luôn nha các anh chị. Rồi là mình đã xong cái phần nhập
+1:23:00
+hàng về bên cái phần trả lại hàng mua. trả lại hàng mua. Có nghĩa là khi mà các anh chị nhập hàng rồi các anh chị phát
+1:23:07
+hiện ra là hàng hóa của các anh chị bị hư hỏng và các anh chị cần trả lại cho nhà cung cấp thì mình sẽ gọi là trả lại
+1:23:14
+hàng mua ha. Thì cái thao tác thao tác mà để trả lại hàng mua thì các anh chị sẽ chọn giúp em là thêm.
+1:23:21
+Rồi các anh chị chọn vào cái phiếu mà các anh chị nhập hàng các anh chị muốn trả lại. Ví dụ như phiếu này
+1:23:26
+đó lúc cái phiếu này là mình đã nhập nè là có 10 kg hành tây, 20 kg tôm càng
+1:23:32
+nhưng mà bây giờ á là hành tây thì không có bị hư cho nên là các anh chị có thể xóa dòng này đi. Các anh chị chỉ trả tôm
+1:23:38
+càng thôi. Nhập số lượng 20 các anh chị chỉ trả lại 10 thôi. Tức là 10 kg thì nó vẫn à vẫn còn sử dụng được. Còn 10 kg nó
+1:23:45
+bị hư thì mình mới trả lại thôi ha. đó thì mình sẽ sẽ giảm trừ lại mình để số lượng này là số lượng mà mình trả lại á
+1:23:51
+các anh chị. Ở trên cái phần trả lại này sẽ có cái giảm trừ công nợ hoặc là nhận lại tiền.
+1:23:58
+Có nghĩa là khi nếu như mà trường hợp mà các anh chị có có ghi nợ đối với nhà cung cấp này thì các anh chị có thể giảm
+1:24:04
+chừ công nợ. Còn nếu như mà các anh chả các anh chị đã trả tiền ngay rồi thì các anh chị sẽ có thể nhận lại tiền. Tức là
+1:24:09
+mình sẽ sinh ra một cái phiếu thu nha các anh chị. Phiếu thu thì nó sẽ có một là phiếu thu, hai là ủy nhiệm chuyển
+1:24:14
+khoản thì là mình nhận lại cái số tiền chuyển khoản á là họ chuyển khoản lại cho mình á. Đó cái phiếu này lúc nãy của
+1:24:21
+mình là giảm chừ công nợ thì mình của mình là ghi n thì bây giờ mình sẽ là giảm chừ công nợ. Rồi bây giờ mình sẽ
+1:24:28
+chọn cất nha các anh chị. Cất thì phần mềm sẽ sinh ra một cái phiếu suất kho để mình trả lại cho nhà cung cấp là 10 cái
+1:24:33
+ký tôm càng này. Sang cái tab trả nợ. trả nợ là các
+1:24:41
+anh chị có thể xem được tất cả các nhà cung cấp mà mình hiện tại đang nợ nhà cung cấp nào ha. Thì khi nào mà mình cần
+1:24:47
+trả nợ thì các anh chị có thể chọn vào cái trả nợ, chọn vào nhà cung cấp đó để mình bấm vào cái nút này chọn cái nút
+1:24:52
+trả nợ nè. Đối với ví dụ như là hapo đi mình sẽ trả nợ cho ha. Mình nhập mình chọn. Khi mà các anh chị chọn như vậy á
+1:24:59
+phần mềm sẽ xổ ra hết tất cả những cái phiếu mà mình đang nợ nhà cung cấp đó. Tức là cái phiếu nhập hàng mà mình đang
+1:25:05
+nợ á. Và lúc này thì các anh chị có thể trả thứ nhất là các anh chị trả hết chọn hết luôn chọn một lượt một là trả hết
+1:25:11
+tất cả các hóa đơn mà mình đang nợ về cung cấp đó thứ hai là các anh chị có thể chọn từng cái hóa đơn các anh chị
+1:25:16
+trả cái thứ ba là các anh chị muốn trả bao nhiêu thì các anh chị có thể nhập cái số trả ra bấy nhiêu. Ví dụ như hiện
+1:25:21
+tại là các anh chị còn nợ là 12 triệu mấy đi 2,352.000đ đúng không ạ? Thì các
+1:25:28
+anh chị muốn trả hết, các anh chị muốn trả một nửa thôi là 2 triệu thôi. Các anh chị trả 2 triệu thôi thì phần mềm nó
+1:25:33
+sẽ tự cấn trừ, nó sẽ tự lấy một cái hóa đơn nó cấn trừ ra cho các anh chị ha. Số trả
+1:25:39
+đó. Còn muốn trả từng đơn thì các anh chị sẽ chọn. Sau đó thì các anh chị chọn trả tiền. Thì ở đây thì các anh chị lưu
+1:25:45
+ý giúp em là cái hình thức thanh toán thì mình sẽ chọn ở trên đây ha. Ví dụ thanh toán của mình á mình trả cho khách
+1:25:50
+mình trả cho nhà cung cấp đó là bằng tiền mặt á thì các anh chị sẽ chọn tiền mặt. Còn nếu như mà trường hợp các anh
+1:25:56
+chị trả cho nhà cung cấp đó bằng tiền chuyển khoản thì ở bên đây mình sẽ chọn là tiền gửi ha. Rồi sau đó mình sẽ bấm
+1:26:02
+trả tiền. Chọn trả tiền. Rồi chọn trả tiền. Sau đó các anh chị cất đi. Đó cất
+1:26:08
+đi là được ha. Rồi đó là cái thao tác về trả trả
+1:26:15
+nợ. Về phần kho, về phần kho này các anh chị sẽ có cái nhập kho. Nhưng mà các anh
+1:26:21
+chị này là nhập kho. Lúc mà các anh chị nhập hàng á thì phần mềm sẽ tự động nhập kho cho các anh chị luôn. Rồi thì các anh chị sẽ không có phải thao tác thêm
+1:26:27
+một lần nữa là nhập kho nữa nha các anh chị nha. Cái phần nhập kho này thì mình sẽ có nhập là nhập những cái mặt hàng mà
+1:26:33
+các anh chị sẽ không có mua về và không có muốn xem cái báo cáo mà mua hàng á sẽ không hiển thị lên cái báo cáo mua hàng
+1:26:39
+của các anh chị hay là không nợ gì á. thì mình có thể vào trong đây nhập kho hoặc là các anh chị nhập kho. Thứ hai
+1:26:45
+nữa là mình sẽ nhập kho bán thành phẩm á các anh chị thành phẩm chế biến á à đó thì mình sẽ nhập kho ở lên đây. À hoặc
+1:26:51
+là các anh chị nhập kho điều chuyển điều chuyển đối với trường hợp là bên mình có hai chi nhánh trở lên thì mình sẽ có cái
+1:26:57
+xuất kho điều chuyển và nhập kho điều chuyển ha. Rồi về cái nhập kho này các anh chị chọn thêm thì ở trên đây thì các
+1:27:02
+anh chị sẽ thấy ở đây nó sẽ có thứ nhất là cái điều chuyển từ nhà hàng khác. thì điều chuyển từ nhà hàng khác. Đối với
+1:27:07
+trường hợp bên mình có hai chi nhánh trở lên ha thì mình sẽ chọn cái chứng từ được điều chuyển từ cái nhà hàng à khác
+1:27:13
+qua. Còn thành phẩm chế biến thì các anh chị sẽ chọn vào đây nhập ngập ho. Như
+1:27:18
+lúc nãy em có nói với các anh chị á làm ví dụ như những cái số mà mình đã định lượng trên cái đó là bán thành phẩm rồi
+1:27:24
+thì lúc này các anh chị sẽ nhập kho để phần mềm sinh ra được cái phiếu chế xuất kho chế biến thành phẩm cho các anh chị.
+1:27:30
+Ví dụ như cái shop cái shop XO đó các anh chị nhập bây giờ các anh
+1:27:35
+chị biết là ngày hôm nay các anh chị làm được 2 kg số thôi. Phần mềm nó sẽ tự sinh ra cái phiếu xuất kho cho các anh
+1:27:41
+chị. Mà phiếu xuất kho đó là theo cái định lượng mà các anh chị đã làm ngay từ ban đầu ha.
+1:27:46
+Đó. Lúc này các anh chị chỉ cần cộn cất thôi. N phần mềm phần mềm sẽ xin cho các
+1:27:51
+anh chị nè. À phần mềm sẽ xin cho các anh chị nha. Một cái phiếu xuất kho nha các anh chị. Đây xuất kho.
+1:27:58
+Ờ xuất kho nè. đó mình sẽ gọi là chế biến thành phẩm
+1:28:04
+ha.
+1:28:09
+Ờ còn mình nhập mình sẽ có một cái nữa là nhập kho khác ha. nhập kho khác là ví dụ như mình nhập những cái mặt hàng tặng
+1:28:15
+của của của nhà cung cấp hay gì đó những cái mặt hàng mà mình không có mua mà người ta tặng á nhưng mà mình đem ra
+1:28:21
+mình bán á thì mình có thể nhập trực tiếp ở
+1:28:27
+đây. Rồi tiếp theo nữa là mình sẽ có xuất kho nha các anh chị. Xuất kho thì xuất kho ở đây thì mình sẽ thứ
+1:28:34
+nhất là mình sẽ có xuất kho bán hàng thì phần mềm nó sẽ có cơ chế là thứ nhất là xuất kho tự động tức là sau khi mà các
+1:28:40
+anh chị tính tiền thì phần mềm sẽ xuất kho luôn. Cái thứ hai nữa là các anh chị có thể hẹn giờ để cho phần mềm tự xuất
+1:28:46
+kho. Ví dụ hẹn giờ là tới 12:00 đêm phần mềm tự xuất kho. Vậy thì cứ bán nguyên một ngày á thì trên phần mềm á sẽ thô nó
+1:28:52
+sẽ treo treo tất cả các phiếu số các phiếu bán hàng lại. Sau đó đúng 12:00 đêm mà mình đã cài sẵn á thì phần mềm sẽ
+1:28:59
+xuất hết một lượt luôn. Đó là xuất kho. À cách thứ hai xuất kho. Và cách thứ ba xuất kho nữa
+1:29:05
+là các anh chị sẽ xuất kho ờ x xuất kho tay á. Xuất kho tay là bằng cách ở đây
+1:29:11
+không phải là các anh chị ngồi các anh chị viết ra từng cái nguyên vật liệu mà các anh chị xuất kho mà có nghĩa là các anh chị sẽ phải chọn thủ công như thế
+1:29:18
+này. Nó không có tự động mà nó là thủ công. Các anh chị sẽ chọn xuất kho. Các anh chị chọn thêm ha. Thì ở đây nó sẽ có
+1:29:24
+xuất kho bán hàng và các anh chị sẽ chọn món đã bán. Thì những cái món đã bán này nó nó ở đâu ra? Tức là trên phần mềm á
+1:29:30
+Thu Ngân vẫn bán và phần mềm chưa có trừ kho nhưng mà sẽ treo lại trên đó. Và các anh chị có thể chọn được cái ngày mà
+1:29:35
+mình cần xuất kho. Đó, mình sẽ chọn ví dụ ngày hôm nay nè, các anh chị có thể chọn ngày hôm nay các anh chị à chọn
+1:29:41
+tiếp theo để mình xuất kho ha. Rồi ở đây không có nguyên vật liệu.
+1:29:46
+Không có nguyên vật liệu có nghĩa là những cái món này chưa có định lượng á cho nên là không có nguyên vật liệu á các anh chị. Đó, còn nếu như mà đồ uống
+1:29:52
+đóng chai thì nó sẽ có ha. Đồ uống đóng chai thì có thể xuất kho. Tại bởi vì đồ uống đóng chanh không cần phải định
+1:29:57
+lượng thì sẽ xuất khoa. Thì các anh chị chỉ cần bấm tiếp theo thôi. Đó.
+1:30:06
+Đó các anh chị chọn như thế này. Các anh chị chọn tiếp theo thôi là mình sẽ sẽ có những cái nguyên vật liệu. Sau đó các
+1:30:11
+anh chị đồng ý là mình sẽ xuất kho. Sau khi đồng ý xong thì mình sẽ chọn nút cất thôi là phần mềm sẽ xuất kho bán hàng
+1:30:18
+cho mình. À đó là xuất kho bán hàng. Tiếp theo nữa mình sẽ có xuất kho
+1:30:23
+điều chuyển. Xuất kho điều chuyển á các anh chị là ở
+1:30:28
+các anh chị sẽ có hai chi nhánh trở lên thì mình sẽ có xuất kho ví dụ như là nhà hàng chi nhánh một họ mượn hàng của chi
+1:30:35
+nhánh hai thì bắt đầu mình sẽ xuất kho từ cái chi nhánh hai để điều chuyển qua chi nhánh một. Lúc này các anh chị sẽ
+1:30:40
+chọn là xuất kho điều chuyển ha. Vậy mình sẽ chọn cái nhà hàng mà mình muốn xuất đến là cái nhà hàng nào đó. Nhà
+1:30:46
+hàng nào mình muốn xuất đến. Rồi mình nếu như mà các anh chị muốn cho phần mềm nó sẽ tự sinh cái phiếu xuất kho tại cái
+1:30:52
+nhà hàng mà nhận mà điều chuyển á thì nó sẽ tự sinh luôn. Còn nếu không thì các anh chị bỏ đi. Thì phần mềm bên cái nhà
+1:30:58
+hàng mà nhận được cái hàng muốn điều chuyển á thì bạn đó phải bấm vô nhập kho thì bạn đó mới nhận được. Còn nếu mà tích vô đây thì nó sẽ tự động sinh
+1:31:05
+ha. Rồi sau đó thì các anh chị sẽ chọn những cái nguyên vật liệu mà các
+1:31:10
+anh chị à muốn điều chuyển qua cái nhà hàng bên đó. Đó ví dụ như chuyển tôm càng các anh chị muốn chuyển 5 kg qua
+1:31:17
+rồi sau đó các anh chị chọn tất đi. Đó thì phần mềm sẽ à
+1:31:23
+sẽ phần mềm sẽ điều chuyển ha điều chuyển năm cái ký tôm càng này đến cái
+1:31:29
+nhà hàng b này nha các anh chị nha. Backet B này. Tại vì khi mà mình tích vô là nó tự
+1:31:36
+sinh cái phiếu nhập kho rồi thì bên cái nhà hàng BB này nó sẽ sinh ra cái cái phiếu nhập kho luôn bên đó nha các anh
+1:31:42
+chị. Rồi tiếp theo nữa là ngoài xuất kho, bán hàng, xuất kho điều chuyển đến nhà hàng
+1:31:49
+khác thì mình sẽ có là xuất kho hủy nguyên vật liệu. Ờ xuất kho hủy nguyên vật liệu ở đây là đối với trường hợp là
+1:31:55
+nguyên vật liệu của các anh chị bị hư hỏng về hết hàng sử dụng á thì các anh chị có thể lựa chọn cái lý do ở đây. À
+1:32:01
+sau đó các anh chị lựa chọn cái nguyên vật hiệu mà các anh chị muốn hủy, muốn hủy bỏ.
+1:32:07
+Đó nó bị hư hỏng vậy đó. các anh chị muốn hủy bỏ sau đó các anh chị cất lại thì phần mềm sẽ sinh ra cái phiếu xuất
+1:32:12
+kho hủy nguyên vật liệu cho các anh chị nha. Rồi tiếp theo nữa là mình sẽ có à
+1:32:19
+xuất kho chế biến thành phẩm. Như lúc nãy em có nói là à các anh chị sẽ không
+1:32:24
+làm được cái bán thành phẩm á tức là các anh chị không có một cái công thức cố định để làm bán thành phẩm. Thì các anh
+1:32:30
+chị có thể làm theo cái phương theo cái cách là các anh chị sẽ nhập nguyên vật liệu thô vô. Ví dụ như một cái món rau
+1:32:36
+muống của các anh chị đi. Một cái món rau muống của anh chị khi mà chưa có sơ chế thì lúc đó thì các anh chị nhập vô là 2 3 kg. 2 3 kg rau muống. Sau đó các
+1:32:43
+anh chị dùng một cái ký đó các anh chị xuất làm phiếu xuất kho ra để các anh chị làm ra được khoảng tầm 700 g kg rau
+1:32:51
+muống đã đã sơ chế ha. Thì lúc này thì mình sẽ chọn cái cái rau muống mà đã
+1:32:56
+nhập vào đó là chưa có sơ chế vô. Đó mình sẽ xuất kho nó ra thì phần mềm sẽ tính luôn là cái chi phí này là cái chi
+1:33:03
+phí đã xuất kho luôn rồi. Và lúc này thì các anh chị chỉ cần nhập kho vào thôi, nhập kho vào lại
+1:33:09
+ha. Đó thì ở đây gọi là cái sơ xuất kho chế biến thành phẩm đó. Hoặc là các anh
+1:33:16
+chị xuất kho ra các anh chị nấu một cái nồi chè để đó bao gồm có đường nè rồi có đậu nè. Đó.
+1:33:30
+Về phần chuyển kho thì đối với chuyển kho ở đây có nghĩa là chuyển trong một chi nhánh nha các anh chị nha. Như lúc
+1:33:35
+nãy thì mình sẽ xuất kho điều chuyển và nhập kho điều chuyển tức là khác chi nhánh. Nhưng mà chuyển kho ở đây là mình
+1:33:40
+sẽ chuyển kho trong cùng một nhà hàng. Tức là mình có kho A với kho B chẳng hạn. Mình muốn chuyển hàng từ kho A sang
+1:33:46
+kho thì mình sẽ lập cái phiếu chuyển kho. Thì ở đây về cái cách chuyển kho thì các anh chị chọn vào thêm giúp em.
+1:33:52
+chọn vào thêm thì lúc này thì mình sẽ diễn giải ra đây cái nội dung. Sau đó mình sẽ chọn nguyên vật liệu mà mình muốn chuyển.
+1:34:04
+Đó. Rồi các anh chị xuất nè, xuất kho nè. Rồi các anh chị muốn chuyển qua kho nào ví dụ như các anh chị muốn chuyển
+1:34:09
+qua à kho phụ thì các anh chị chọn như thế này. Và các anh chị muốn chuyển bao số lượng bao nhiêu ha thì các anh chị chọn tất đi là
+1:34:16
+xong. Rồi phần mềm sẽ chuyển cái nguyên vật liệu đó. Đó từ cái kho bếp tổng sang kho phụ là 1 kg chẳng hạn. Đối với cái
+1:34:22
+tôm càng này về kiểm kê kho. Kiểm kê kho là các anh chị sẽ kiểm kê à giữa phần mềm và so
+1:34:30
+với thực tế là xem mình có chên lệch như thế nào, chên lệch bao nhiêu. Thì lúc
+1:34:36
+này thì về cái cách kiểm kê kho thì các anh chị sẽ chọn vào kho. Các anh chị sẽ chọn kiểm kê kho. Sau đó mình sẽ thêm
+1:34:44
+chọn thêm. Rồi lúc này các anh chị chọn kho mà các anh chị muốn kiểm kê. Ví dụ các anh chị muốn kiểm kê bếp bếp tổng
+1:34:50
+kho tổng thì các anh chị chọn kiểm kê đến ngày bao nhiêu ha. Các anh chị kiểm kê đến ngày bao nhiêu sau đó mình sẽ
+1:34:55
+đồng ý. Rồi ở đây ha mình sẽ có cái mục đích kiểm kê thì các anh chị tự ghi cái mục
+1:35:01
+đích ra giúp em. Nếu như mà mình có kiểm kê theo giá trị thì mình sẽ tích vào trong đây là mình kiểm kê theo giá trị
+1:35:06
+ha. Còn nếu mà không kiểm kê theo giá trị thì mình sẽ bỏ tích đi. Rồi lúc này thì các anh chị sẽ chọn nè.
+1:35:13
+Ở trong đây thì mình sẽ có là mã nguyên vật liệu ha. Mã nguyên vật liệu. Rồi ví dụ như tâm kẹt các anh chị kiểm
+1:35:20
+kê Tâm Kèn đi. Đó Tâm Kèn thì các anh chị sẽ nhập vào. Và bên đây thì theo sổ
+1:35:25
+tức là trên phần mềm hiện tại là còn có 18 kg đó. Và bây giờ mình kiểm kê xem là có hao hục bao nhiêu hay không. Ví dụ
+1:35:31
+như thực tế của chị là các anh chị là các anh chị kiểm kê còn 15 kg. Vậy thì trên lệch là 3 nha. Trên lệch 13 có
+1:35:36
+nghĩa là bên mình bị mất 3 kg đó các anh chị. Bên mình bị mất 3 kg đó. Tương tự như vậy thì các anh chị cứ thêm dòng
+1:35:42
+thêm dòng để các anh chị à kiểm kê. Tuy nhiên thì nó rất là nhiều nguyên vật liệu để các anh chị kiểm kê một lần thì
+1:35:48
+lúc này thì các anh chị có thể xuất khẩu cái file nguyên vật liệu ra ha. Thì xuất khẩu ra thì nó sẽ có ra hàng loạt luôn
+1:35:53
+các anh
+1:35:58
+chị. Rồi các anh chị có thể xuất khẩu cái file nguyên vật liệu kiểm kê
+1:36:04
+ra và các anh chị xuất khẩu cái file nguyên vật liệu kiểm kê này ra giúp em ha. Và sau khi mà các anh chị xuất khẩu
+1:36:09
+ra thì ở đây mình sẽ có cái theo sổ nè các anh chị. theo sổ tức là trên phần mềm đó. Còn kiểm kê các anh chị sẽ nhập
+1:36:16
+thực tế vô. Ví dụ thực tế trên phần mềm của các anh chị là còn nhiêu đây nè. Thì các anh chị sẽ nhập vào
+1:36:32
+đó. Rồi các anh chị nhập ha. Sau khi kiểm kê xong thì các anh chị lưu cái file này lại. À sau khi lưu cái file này
+1:36:38
+lại rồi thì các anh chị sẽ trở về phần mềm và sau đó các anh chị sẽ nhập khẩu đúng cái file đó lên ha. Nhập khẩu
+1:36:45
+lại. Rồi các anh chị nhập khẩu lên thì phần mềm sẽ hiển thị lên cho các anh chị
+1:36:51
+những những cái nguyên vật liệu số là
+1:36:59
+test đi cái tab của mình làm được mà dùng hai được mà. luôn rồi các anh chị nhập khẩu lại ha mình sẽ nhập lại
+1:37:07
+ý là rồi những cái nguyên vật liệu mà mình đã kiểm kê nha các anh chị nha đây phần mềm sẽ ghi ở trên lệch nè đó đối
+1:37:13
+với tâm càng ví dụ ở đây tôm càng là theo sổ tức là theo phần mềm là 18 kg nhưng mà hiện tại kiểm kê có 10 kg à vậy
+1:37:20
+thì các anh chị đã bị mất 8 kg rồi rồi tương tự như cá trình cá trình hiện tại trên phần mềm là không có nhưng mà kiểm
+1:37:26
+kê lại thấy 10 kg vậy thì mình chên lệch là 10
+1:37:31
+Đó, đối với các nguyên vật liệu khác cũng vậy. Vậy thì nếu như mà chênh lệch như vậy á thì đối với là phần mềm mà nó
+1:37:38
+đang nhiều hơn so với thực tế thì phần mềm sẽ xuất kho để cho cân bằng với thực tế. Còn nếu như mà thực tế nhiều hơn so
+1:37:44
+với phần mềm thì phần mềm sẽ có hướng xử lý là nhập khoa. Còn cái nguyên nhân là cái này do nội bộ của bên mình cho nên
+1:37:50
+là các anh chị có thể lưu ghi cái not lại cái nguyên nhân ở đây để sau này các anh chị có thể xem lại cái nguyên nhân.
+1:37:57
+Rồi sau khi xong thì các anh chị chọn cất giúp em ha.
+1:38:04
+Rồi các anh chị chọn giúp em ha cất. Rồi sau khi các anh chị chọn cất
+1:38:10
+thì phần mềm sẽ hiển thị à cái nút xử lý này lên nha các anh chị. Xử lý này lên. Nếu như mà các anh chị xử lý nội bộ xong
+1:38:16
+rồi thì các anh chị đồng ý theo phần mềm thì phần mềm sẽ bấm xử lý. Thì phần mềm sẽ sinh ra cái phiếu xuất kho và nhập
+1:38:21
+kho để cho cân bằng giữa thực tế và trên phần mềm nha. Đó sẽ sinh ra phiếu xuất kho. Dạ.
+1:38:31
+Và đây là kiểm kê kho. Và bên này là các anh chị có thể xem được tổng hợp tồn kho ha. Thì tổng hợp tồn kho mình có thể lọc
+1:38:37
+nè từ ngày nào đến ngày nào? Rồi mình sẽ xem chi tiết ha. Mình có thể xem chi tiết ở
+1:38:44
+đây. Rồi tổng hợp xuất kho bán hàng thì các anh chị có thể xem được tổng hợp xuất kho bán hàng ở đây ha. Đó.
+1:39:01
+Dạ. Rồi. À đây là cái về cái phần mà quản lý kho. Thì xong cái phần quản lý
+1:39:07
+kho này á. Dạ. Rồi xong cái phần à quản lý kho
+1:39:13
+rồi ha. Mình sẽ mua hàng và kho. Bây giờ em sẽ qua luôn cái phần quản lý quỷ tiền. Thì cái phần quản lý quỹ tiền này
+1:39:20
+thì mình sẽ có là quỹ tiền mặt và quỹ tiền gửi. Thì đối với cái quỹ tiền mặt và quỹ tiền gửi này thì các anh chị sẽ
+1:39:25
+lập thu chi à quỷ tiền mặt ha thì nó sẽ có là thu chi. Thì lúc này thì các anh chị sẽ có cái nút thêm nè. Các kế bên
+1:39:32
+nút thêm sẽ có một cái mũi tên thì các anh chị sẽ chọn đúng cái mũi tên này sẽ hiển thị ra là một là thu tiền, hai là
+1:39:37
+chi tiền. Nếu như các anh chị lập phiếu thu thì các anh chị sẽ chọn là thu tiền. Còn lập phiếu chi thì mình sẽ chọn là
+1:39:43
+chi tiền. Thu tiền ở đây không có phải là các anh chị phải thu tiền mà bán hàng đâu nha. Các bạn thu ngân bản bán hàng á
+1:39:49
+nó sẽ xị tự sinh cái phiếu thu luôn rồi. Các anh chị không cần phải thu nữa. Thu ở đây là các anh chị thu những cái khác
+1:39:55
+thôi. Ví dụ thu nợ chẳng hạn, thu nợ của khách hàng chẳng hạn hoặc là các anh chị thu tiền à bán phế liệu hay là những thu
+1:40:01
+những cái khoản khác thì mình sẽ vào là mình thu tiền ha. Thì cái cách thu ở đây các anh chị sẽ chọn là thu tiền. Sau đó
+1:40:07
+thì mình sẽ chọn là đối tượng nộp là ai? Người nộp là ai. Địa dĩ. Lý do mình thu
+1:40:13
+cái gì? Mình có tính vô thu nhập khác hay không? Đó, tính vô thu nhập khác thì mình sẽ tích vào tính vô thu nhập khác
+1:40:19
+ha. Còn không tính thì các anh chị có thể bỏ tích đi. Rồi ở đây thì các anh chị có thể
+1:40:24
+diễn giải ra đây số tiền thu là bao nhiêu. Rồi mình sẽ chọn cái mục thu ở đây. Đó, mạch thu ở
+1:40:30
+đây. Sau khi thu xong thì các anh chị chọn cất đi là được ha. Thì mình sẽ có cái mục
+1:40:35
+thu rồi. Đây là thu tiền mặt nha các anh chị. Còn nếu như mà mình chi thì các anh chị hã chọn thêm nè. chi tiền rồi chi
+1:40:43
+thì tương tự như vậy thì mình sẽ chi cho ai? Người nhận là ai, mình chi cho cái gì? Mình chi về vấn đề gì, mình diễn
+1:40:50
+giải ra số tiền là bao nhiêu. Rồi sau đó các anh chị có thể chọn cái mục chi ở bên đây. Đó thì đối với chi thì các anh
+1:40:56
+chị có thể nhiều nè. Ví dụ chi tiền điện thoại à tiền điện, tiền nước đó. Chi tiền thuê cửa hàng ví dụ như ở đây
+1:41:04
+đi chia cho công ty A B C rồi người nhận là à anh A chị B gì đó.
+1:41:11
+Anh C rồi lý do chi là các anh chị có thể là chi
+1:41:16
+ờ chi tiền thuê mặt
+1:41:25
+tằng rồi chi tiền thôi mặt bằng à tháng ba đó các anh chị có thể chi như thế này
+1:41:32
+và các anh chị gõ vô ví dụ như mặt bằng là 50 triệu thì mình sẽ nhập vô 50 triệu ở đây rồi sau đó mình sẽ chọn cái mục
+1:41:38
+chi ở đây ha chi ở đây là tiền thơ cửa hàng ở đây. Rồi sau đó thì các anh chị chọn cất đi là được. Đó, cất đi. Thì
+1:41:45
+tương tự như vậy thì các anh chị có thể chi những cái khoản khác chẳng hạn. Đó là chi cho tiền mặt nha các anh chị nha.
+1:41:52
+Rồi ở bên cái kiểm kê kiểm kê ở đây là mình à sẽ kiểm kê cái quỷ tiền của mình
+1:41:57
+đến thời điểm hiện tại á các anh chị. À mình sẽ kiểm kê nè, mục đích mình kiểm kê nè. Rồi à số dư qu số dư quỷ tiền sổ
+1:42:04
+quỷ tiền mặt của mình là bao nhiêu nè. Mình kiểm kê thực tế là bao nhiêu. Đó. Sau đó thì các anh chị chỉ cần cất đi
+1:42:10
+mình sẽ bấm xử lý thôi để mình xử lý được cái số tiền chên lệch ha. Rồi ở đây thì mình sẽ có cái mệnh
+1:42:17
+giá mình kiểm kê bằng theo mệnh giá á các anh chị. Thì các anh chị có thể nhập cái số tờ ở
+1:42:22
+đây. Đây là kiểm kê quỷ tiền mặt. Và sổ chi tiết tiền mặt thì các anh
+1:42:28
+chị sẽ xem được sổ chi tiết tiền mặt ở bên đây ha. Mình sẽ xem được cái số tiền thu nè là số tiền chi nè. Số tiền còn
+1:42:34
+lại của mình. Rồi tương tự như vậy thì đối với quỷ
+1:42:39
+tiền gửi thì cũng sẽ cũng sẽ lập phiếu thu chi giống như tiền mặt nhưng mà à nó thuộc diện về tiền gửi có nghĩa là tiền
+1:42:46
+các anh chị chuyển khoản ngân hàng ha. Khi mà các anh chị chi à các anh chị thu
+1:42:51
+thứ nhất là thu tiền rồi thu tiền ha thì cũng là thu người nộp sẽ là ai, thu của
+1:42:56
+ai thu lý do gì ha và mình có tính vô thu nhập khác hay không thì đối với phiếu thu tiền gửi này thì nó sẽ có tài
+1:43:02
+khoản. tài khoản nếu như mà bên mình có hai cái tài khoản trở lên á thì mình sẽ chọn ha. Đó, còn nếu như mà mình một tài
+1:43:10
+khoản thì mình không cần phải chọn. Tại vì thu là mình cũng phải muốn biết là mình thu vô cái tài khoản nào để mình
+1:43:15
+quản lý từng tài kh tài khoản ha. Thì số tiền nằm số tiền diễn giải ra số tiền thu là bao nhiêu và sau đó mình sẽ chọn
+1:43:22
+mục thu. Sau khi chọn xong thì các anh chị chọn cất đi là xong.
+1:43:28
+Tương tự như vậy đối với chi phiếu chi thì các anh chị sẽ chọn thêm phiếu chi
+1:43:35
+và mình sẽ chia cho ai? À lý do chi là cái gì? Ví dụ chi tiền lương lương chẳng hạn hay là tiền phí sinh hoạt, nước sinh
+1:43:41
+hoạt chẳng hạn. Đó thì chi ở đây thì nó mình cũng sẽ chọn tài khoản nha các anh chị. Thu thì mình cũng sẽ chọn cái tài
+1:43:47
+khoản mình thu vào là tài khoản nào. Vậy thì chi thì mình cũng sẽ dùng cái tài khoản nào để mình chi. Đó.
+1:43:55
+Rồi ở đây thì các anh chị diễn giải ra số tiền và mục chi ở trên đây à cũng giống như tiền mặt thôi ha. Chỉ khác một
+1:44:00
+điều là tài mình sẽ chọn cái tài khoản thu và tài khoản chi. Rồi về phần đối
+1:44:07
+chiếu đối chiếu này thì các anh chị sẽ đối chiếu những cái đơn những cái đơn bán hàng á những cái bill bán hàng mà
+1:44:14
+các bạn thu ngân á bạn chọn là thanh toán bằng chuyển khoản. À thì các anh chị có thể xem nè. Thứ nhất mình sẽ xem
+1:44:20
+mình sẽ chọn cái tài khoản ngân hàng ha. Đó để mình xem là cái cái chứng từ bán hàng này của mình nè các anh chị có thể
+1:44:26
+xem là đối chiếu trong cái tài khoản ngân hàng là tiền đã về hay chưa. Thì ở đây thì các anh chị xem là ở đây có
+1:44:31
+chuyển khoản là 542.000 thì các anh chị đối chiếu. Nếu như mà các anh chị đã thấy là cái khoảng này nè đã về đã về
+1:44:37
+tài khoản ngân hàng của mình rồi thì các anh chị có thể tích vào các anh chị xác nhận ha là mình đã đối chiếu thành công
+1:44:42
+đó. Rồi mình sẽ đối chiếu tài khoản. Còn cái mình có thể lọc cái trạng thái đã đối chiếu nè và th trạng thái chưa đối
+1:44:47
+chiếu. Cái nào chưa đối chiếu thì mình sẽ phải tìm lại. Tìm lại xem là à trong cái tài khoản ngân hàng của mình á đã
+1:44:54
+nhận chưa, cái tiền đã về hay chưa. Rồi sổ chi tiết tiền
+1:45:00
+gửi. Sổ chi tiết tiền gửi thì các anh chị cũng có thể xem được à chọn tài khoản ngân hàng để mình xem ha.
+1:45:08
+Rồi còn ở đây thì mình sẽ xem được số tiền thu này qua tài khoản chuyển khoản nè hoặc là số tiền chi của mình là bao
+1:45:15
+nhiêu ha mình sẽ xem được cái số tiền về phần chi phí đối với phần chi
+1:45:22
+phí này á các anh chị thì mình sẽ tổng hợp chi chi phí vào cuối tháng thì khi mà mình tổng hợp cái chi phí này á ờ để
+1:45:29
+mình xem được cái báo cáo lợi nhuận của mình nha thì nó sẽ tổng hợp chi phí thì nó mới trừ nó mới xem được cái báo cáo
+1:45:35
+lợi nhuận thì về cái cách mà tổng Tổng hợp chi phí thì các anh chị sẽ chọn vào chi phí. Sau đó thì các anh chị chọn
+1:45:41
+thêm giúp em và chọn thêm. Thì lúc này thì mình sẽ muốn là tổng hợp chi phí của tháng nào. Cái này tổng hợp là mình tổng
+1:45:48
+hợp theo tháng. Cho nên nếu như mà tổng hợp tháng ba thì mình sẽ chọn tháng ba. Sau đó lấy dữ liệu ha. những cái chi phí
+1:45:54
+của các anh chị sẽ được diễn giải ra đây. Sau đó các anh chị chọn cất đi thì mình sẽ tổng hợp được là chi phí tháng
